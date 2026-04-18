@@ -1,0 +1,19 @@
+.option {
+  padding: 12px;
+  border-radius: 8px;
+  background: #1f2937;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.option:hover {
+  background: #374151;
+}
+
+.correct {
+  background: #16a34a !important;
+}
+
+.wrong {
+  background: #dc2626 !important;
+}
